@@ -4,4 +4,4 @@ Created with React, Vite.js and Material UI.
 
 ## Getting Started
 
-npm i & npm start
+npm i && npm start
